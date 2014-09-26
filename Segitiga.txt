@@ -1,0 +1,17 @@
+import java.util*
+import java.util.scanner
+class Segitiga {
+  public static void main(String[] args) {
+    Scanner input = new Scanner(System.in)
+int alas,tinggi,Hasil1;
+    System.out.println("Masukan Nilai a ");
+	a=input.nextInt();
+ System.out.println("Masukan Nilai a ");
+b=input.nextInt();
+		Hasil1 = alas * tinggi;
+
+    System.out.println("Tambah =Hasil1" );
+
+	
+  }
+}
